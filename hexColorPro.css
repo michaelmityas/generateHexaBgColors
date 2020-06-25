@@ -6,6 +6,8 @@ body{
 
 .container{
     text-align: center;
+    font-family: calibri, san-serif;
+    font-weight: bolder;
 }
 
 .hex{
